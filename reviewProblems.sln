@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "activitu", "activitu\activitu.csproj", "{70DE4A5F-ACDA-4302-A403-8319D39E874E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "activit54", "activit54\activit54.csproj", "{38E7FE96-D3C5-4C17-873C-DE0428E7436A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70DE4A5F-ACDA-4302-A403-8319D39E874E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70DE4A5F-ACDA-4302-A403-8319D39E874E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70DE4A5F-ACDA-4302-A403-8319D39E874E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70DE4A5F-ACDA-4302-A403-8319D39E874E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38E7FE96-D3C5-4C17-873C-DE0428E7436A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E7FE96-D3C5-4C17-873C-DE0428E7436A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E7FE96-D3C5-4C17-873C-DE0428E7436A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E7FE96-D3C5-4C17-873C-DE0428E7436A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
